@@ -137,3 +137,34 @@ section {
     color: #474747;
     font-weight: 700;
 }
+
+.skillDesc {
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 800px;
+    margin: 30px auto 80px;
+}
+
+.skilContainer {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.sCard {
+    width: 267px;
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.sTitle {
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin: 30px 0 20px;
+}
